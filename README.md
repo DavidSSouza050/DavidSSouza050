@@ -7,10 +7,10 @@
 
 <div>
   <a href="https://github.com/DavidSSouza050/github-readme-stats">
-    <img height=200 width=42% align="center" src="https://github-readme-stats.vercel.app/api?username=DavidSSouza050&show_icons=true&theme=dark&border_radius=4&locale=pt-br&rank_icon=github&hide_title=true&icon_color=f20202&border_color=999999&ring_color=f20202" />
+    <img height=160em  align="center" src="https://github-readme-stats.vercel.app/api?username=DavidSSouza050&show_icons=true&theme=dark&border_radius=4&locale=pt-br&rank_icon=github&hide_title=true&icon_color=f20202&border_color=999999&ring_color=f20202" />
   </a>
   <a href="https://github.com/DavidSSouza050/convoychat">
-    <img height=200  width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidSSouza050&layout=compact&langs_count=8&card_width=320&theme=dark&border_radius=4&locale=pt-br&hide_title=true&border_color=999999" />
+    <img height=160em  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidSSouza050&layout=compact&langs_count=8&card_width=320&theme=dark&border_radius=4&locale=pt-br&hide_title=true&border_color=999999" />
   </a>
 </div>
 
