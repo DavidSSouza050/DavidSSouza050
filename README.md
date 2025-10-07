@@ -2,7 +2,7 @@
 
 
 - 🔭 Iniciando em desenvolvedor Full-stack, mas o foco é Front-end
-- 🌱 Estudando e aprofundando no ReactJS, Native e Typescript
+- 🌱 Estudando e aprofundando no ReactJS, Native, Typescript e Angular
 - 💬 Pode me contatar no email: david121314silva26@gmail.com
 
 <div>
